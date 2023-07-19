@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sérgio Magalhães</h1>
-<h3 align="center">A motivated Software Engineer</h3>
+<h3 align="center">A new Software Engineer looking for his first job</h3>
 
 - 💬 Ask me about **C, C++, C#**
 
