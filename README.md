@@ -1,6 +1,3 @@
-<div display="inline-block">
-  <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/4e/9e/1f/4e9e1f5a41b738e3066d135da871a46c.gif" >
-</div>
 <h1 align="center">Hi 👋, I'm Sérgio Magalhães</h1>
 <h3 align="center">A new Software Engineer looking for his first job</h3>
 
