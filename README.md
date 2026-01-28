@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sesmaga@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/sergio0226/sergio0226/blob/main/CV_S%C3%A9rgio_Magalh%C3%A3es_en.pdf]
+- 📄 Know about my experiences <a href="https://github.com/sergio0226/sergio0226/blob/main/CV_S%C3%A9rgio_Magalh%C3%A3es_en.pdf">Check here</a>
 
 - ⚡ Fun fact **I think I am funny**
 
